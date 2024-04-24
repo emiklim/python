@@ -56,3 +56,4 @@ def menu():
         except:
             print("Por favor ingrese una opción correcta.")
 menu()
+print("Ahora funciona todo")
